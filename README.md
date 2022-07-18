@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on WhatsApp Clone
+- 📫 How to reach me: vishnumukundan040@gmail.com
+
 <!--
 **vishnumukundan/vishnumukundan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
