@@ -10,20 +10,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnumukundan&label=Profile%20views&color=0e75b6&style=flat" alt="vishnumukundan" /> </p>
 
-### Hi 👋, I'm Vishnu
-#### A passionate flutter developer from India
+<!-- ### Hi 👋, I'm Vishnu
+#### A passionate flutter developer from India -->
 
-<br/><br/>
+<br/>
 
 # About Me
 
-- 🔭 I’m currently working on **Personal projects**
-
-- 💬 Ask me about **Flutter, UI/UX Design**
-
-- 📫 How to reach me **vishnumukundan77@gmail.com**
-
-- ⚡ Fun fact **My parents think degree is must.**
+- :computer: I’m currently working on **Personal projects**
+- :speaking_head: Ask me about **Flutter, UI/UX Design**
+- :email: Reach me @ **vishnumukundan77@gmail.com**
+- :smile: Fun fact **I'm not graduated.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
