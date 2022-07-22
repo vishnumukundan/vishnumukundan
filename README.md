@@ -4,12 +4,17 @@
   </a>
 </div>
 
-# Hi 👋, I'm Vishnu - A passionate flutter developer from India
 
 <!-- <h1 align="center">Hi 👋, I'm Vishnu</h1>
 <h3 align="center">A passionate flutter developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnumukundan&label=Profile%20views&color=0e75b6&style=flat" alt="vishnumukundan" /> </p>
+
+### Hi 👋, I'm Vishnu - A passionate flutter developer from India
+
+<br/><br/>
+
+# About Me
 
 - 🔭 I’m currently working on **Personal projects**
 
