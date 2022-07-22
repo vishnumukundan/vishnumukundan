@@ -2,7 +2,7 @@
   <a href="">
     <img src="images/banner.jpg" alt="banner">
   </a>
-
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
