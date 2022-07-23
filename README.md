@@ -17,7 +17,8 @@
 
 # About Me
 
-- :computer: I’m currently working on **Personal projects**
+- :computer: I’m a passionate **Flutter Developer**
+- :keyboard: I’m currently working on **Personal projects**
 - :speaking_head: Ask me about **Flutter, UI/UX Design**
 - :email: Reach me @ **vishnumukundan77@gmail.com**
 - :smile: Fun fact **I'm not graduated.**
